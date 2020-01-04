@@ -1,0 +1,12 @@
+name: Final_Project_Submission
+title: Final_Project_Submission
+username:
+account: bluecosmos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1627156
+bundleId: 2705843
+url: https://bluecosmos.shinyapps.io/Final_Project_Submission/
+when: 1578112012.70691
+asMultiple: FALSE
+asStatic: FALSE
